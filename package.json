@@ -1,0 +1,14 @@
+{
+  "name": "json2string",
+  "version": "1.0.2",
+  "keywords": [
+    "json",
+    "string",
+    "parse"
+  ],
+  "types": "lib/index.d.ts",
+  "description": "用来安全的处理 Json 与 字符串的相互转换,包含构造函数,方法等",
+  "main": "index.js",
+  "author": "Yang Zhen Feng",
+  "license": "MIT"
+}
